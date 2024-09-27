@@ -76,6 +76,14 @@ def switch():
 		print("Enter a valid number.") 
 switch() 
 ```
+## For
+```
+def iterate(): 
+	string=input("Enter a string: ") 
+	for i in string: 
+			print(ord(i),end=" ") 
+iterate() 
+```
 
 
 
@@ -97,6 +105,8 @@ switch()
 ![Screenshot 2024-08-23 113358](https://github.com/user-attachments/assets/5f2a81b0-c188-4423-8a50-6c9b654aeac3)
 ## Switch
 ![Screenshot 2024-08-23 113342](https://github.com/user-attachments/assets/b3e0f579-a2c3-465d-beae-cf9ee272d65c)
+## For
+![Screenshot 2024-08-23 113411](https://github.com/user-attachments/assets/acb1e794-570d-47a7-8681-42acbbeff8ab)
 
 
 
